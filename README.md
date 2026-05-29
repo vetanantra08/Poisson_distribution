@@ -32,20 +32,9 @@ The Poisson distribution is the discrete probability distribution of the number 
 <img width="1011" height="1405" alt="image" src="https://github.com/user-attachments/assets/d41835c5-08cf-448d-98db-63a1c1793eb6" />
 
 #output:
-X	P(X=x)	Obs.Freq	Exp.Freq	Chi^2
---------------------------------------------------
-0	0.0213	       1	     0.43	   0.78
-1	0.0819	       2	     1.64	   0.08
-2	0.1577	       2	     3.15	   0.42
-3	0.2024	       5	     4.05	   0.22
-4	0.1948	       1	     3.90	   2.15
-5	0.1500	       5	     3.00	   1.33
-6	0.0962	       1	     1.92	   0.44
-7	0.0529	       3	     1.06	   3.56
---------------------------------------------------
-Calculated Chi-square value: 8.9913  
-Critical Chi-square value (1% LOS, df=7): 18.4753  
-The data *fits* the Poisson distribution at 1% level of significance.
+
+<img width="715" height="379" alt="image" src="https://github.com/user-attachments/assets/49c6f1c7-2189-4bab-a2a4-59fec0bf60ce" />
+
 
 
 
